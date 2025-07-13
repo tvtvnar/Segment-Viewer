@@ -1,6 +1,3 @@
-import streamlit as st
-st.write("🚀 Streamlit_app.py запущен!")
-
 # app.py
 """Старт: загрузить файл, нормализовать колонки и вызвать дашборд."""
 import streamlit as st, pandas as pd
