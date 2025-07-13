@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 from helpers import vc_df, hide_idx
 
 # ──────────────────────────  ГЛОБАЛЬНАЯ ТЕМА  ──────────────────────────
-st.set_page_config(page_title="Segment Viewer", layout="wide")
+#st.set_page_config(page_title="Segment Viewer", layout="wide")
 st.markdown("""
 <style>
   div.block-container {
