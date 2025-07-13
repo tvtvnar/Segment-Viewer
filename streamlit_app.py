@@ -19,9 +19,6 @@ st.markdown(
 import pandas as pd
 from dashboard import run_dashboard
 
-# 4) Debug indicator (remove in production)
-st.write("🚀 Streamlit_app.py запущен!")
-
 # Column synonyms
 ALIASES = {
     "segment": ["segment"],
